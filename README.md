@@ -5,7 +5,10 @@ The legendary primitive snake game now in you laptop.
 
 
 
-![PYTHON_SNAKE_GAME](https://github.com/dibyacodes/Python-Snake-Game/blob/main/Snake%20Game/Screenshot%20from%202023-12-06%2019-54-15.png)
+<p align="center">
+  <img src="Screenshot from 2023-12-06 19-54-15.png" width="350" title="Python Snake Game By Dibyacodes">
+<!--   <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text"> -->
+</p>
 
 In order to use it copy paste the following commands in your terminal :
 
